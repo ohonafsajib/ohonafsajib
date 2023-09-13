@@ -47,10 +47,8 @@
 <a> 
 </a> 
 
-<a> 
-![ohonaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohonafsajib&show_icons=true&theme=radical)
-</a> 
 
+![ohonaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohonafsajib&show_icons=true&theme=radical)
 <!--
 **ohonafsajib/ohonafsajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
