@@ -16,9 +16,10 @@
 
 ## Introduction
 
-
+<!--
 <p>Myself Md Saiduzzaman, who loves to work with database and python. You can define me as a team member, who understands his worth. Take challenges in every aspect of life. Have interests in IoT-embedded devices too.
   </p>
+  -->
 
 - 🔭 I’m currently doing my MEng. in Information Systems Security from Concordia University
 - 🌱 I’m currently learning Information Technology and its security aspect
