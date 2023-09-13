@@ -17,7 +17,7 @@
 ## Introduction
 
 
-<p>Myself Saif Manjar Ahmad, who loves to work with database and python. You can define me as a team member, who understands his worth. Take challenges in every aspect of life. Have interests in IoT-embedded devices too.
+<p>Myself Md Saiduzzaman, who loves to work with database and python. You can define me as a team member, who understands his worth. Take challenges in every aspect of life. Have interests in IoT-embedded devices too.
   </p>
 
 - 🔭 I’m currently working on ...
