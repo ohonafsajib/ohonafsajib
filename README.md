@@ -29,6 +29,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![ohonaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohonafsajib&show_icons=true&theme=radical)
+
 <h3 align="left">Professinal Certifications:</h3>
 
   <div align="left">  
@@ -41,14 +43,9 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-
   </div>
 
-<a> 
-</a> 
 
-
-![ohonaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohonafsajib&show_icons=true&theme=radical)
 <!--
 **ohonafsajib/ohonafsajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
