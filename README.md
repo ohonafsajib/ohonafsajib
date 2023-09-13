@@ -19,7 +19,16 @@
 
 <p>Myself Saif Manjar Ahmad, who loves to work with database and python. You can define me as a team member, who understands his worth. Take challenges in every aspect of life. Have interests in IoT-embedded devices too.
   </p>
-  
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
  - ðŸ”­ Iâ€™m currently working on Python, Database Management, Machine Learning
 - ðŸŒ± Iâ€™m currently learning Node.js, React js, MongoDB
 - ðŸ‘¯ Iâ€™m looking to collaborate on Database Management, Python and Machine Learning
@@ -29,7 +38,7 @@
 - âš¡ Fun fact: Your tongue won't reach your elbow.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Professinal Certifications:</h3>
 
   <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
