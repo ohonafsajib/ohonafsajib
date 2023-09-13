@@ -29,15 +29,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- - ðŸ”­ Iâ€™m currently working on Python, Database Management, Machine Learning
-- ðŸŒ± Iâ€™m currently learning Node.js, React js, MongoDB
-- ðŸ‘¯ Iâ€™m looking to collaborate on Database Management, Python and Machine Learning
-- ðŸ¤” Iâ€™m looking for help with AWS, Bash
-- ðŸ’¬ Ask me about Android Development, Python, MySQL
-- ðŸ˜„ Pronouns: He/His
-- âš¡ Fun fact: Your tongue won't reach your elbow.
-
-
 <h3 align="left">Professinal Certifications:</h3>
 
   <div align="left">  
