@@ -31,9 +31,9 @@
 
 ![ohonaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohonafsajib&show_icons=true&theme=radical)
 
-<h3 align="left">Professinal Certifications:</h3>
+## Professinal Certifications
 
-### DevOps  
+## Technologies and Tools  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
