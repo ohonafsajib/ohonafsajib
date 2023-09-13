@@ -33,6 +33,17 @@
 
 ## Professinal Certifications
 
+- AWS Certified Solutions Architect - Assosiate
+- AWS Certified Cloud Practitioner
+- Certified in Cybersecurity℠ (CC)
+- Certified Kubernetes Administrator (CKA)
+- Certified Ethical Hacking (CEH)
+- Cisco Certified Network Associate Routing and Switching (CCNA)
+- Red Hat Certified Engineer (RHCE)
+- Red Hat Certified System Administrator (RHCSA)
+- ITIL® Foundation Certificate in IT Service Management
+- EC-Council Certified Security Analyst v10
+
 ## Technologies and Tools  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
